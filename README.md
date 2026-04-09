@@ -1,3 +1,5 @@
+
+![logo](https://media.licdn.com/dms/image/v2/D5616AQGKQ6BYjNYSwA/profile-displaybackgroundimage-shrink_200_800/B56ZyYlm7HIIAU-/0/1772086522958?e=1777507200&v=beta&t=FTRx1jkcUXha7khXd9Ko0zVkB3eWNeS26HaiD8mW0LM)
 <h1 align="center">Hi 👋, I'm Arman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align=""  width="400" src="https://www.pinterest.com/ideas/coding-gif-banner/929630361081/">
