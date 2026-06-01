@@ -50,9 +50,7 @@
 ---
 
 ## 📊  Portfolio Live Link
-  <a href="https://portfolio-cyan-sigma-48.vercel.app/">
-  </a>
----
+  **(https://portfolio-cyan-sigma-48.vercel.app/)**
 
 ## 🌐 Connect With Me
 
